@@ -1,52 +1,73 @@
-# 👩‍💻 Lalita Rawat
-
-**Bachelor of Information Technology (BIT)**  
-NCMT College, Lincoln University College
-
----
-
-## About Me
-Hi! I’m **Lalita Rawat**, an IT student just starting my journey into the tech world.  
-I’m learning to code, design, and build creative projects while pursuing my **Bachelor’s in Information Technology**.  
-My focus right now is to grow step-by-step in programming, web development, and design.
-
----`
-
-## Skills
-- **Programming:** Java (basic syntax, OOP concepts)  
-- **Web Development:** HTML, CSS, JavaScript (basics)  
-- **Design:** Graphic Design (Canva, Photoshop basics)  
-- **Other:** Git & GitHub (basic), Problem-Solving Mindset
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Lalita Rawat</h1>
+<h3 align="center">🎓 BIT Student at NCMT College, Lincoln University College</h3>
 
 ---
 
-## Currently Learning
-- Core Java (OOP, basic programs)  
-- Web Design with HTML & CSS  
-- Simple JavaScript interactivity for websites  
-- Graphic Design basics for creative projects
+## 🌸 About Me
+💻 I’m an **IT student** starting my journey in programming, web development, and design.  
+🎯 Passionate about learning step-by-step and building creative beginner projects.  
+✨ Interested in **Java**, **Web Design**, and **Graphic Design**.  
 
 ---
 
-## 🛠 Tools I Use
-- **Code Editors:** VS Code, Eclipse IDE  
-- **Design Tools:** Canva, Photoshop (beginner)  
-- **Version Control:** Git, GitHub
+## 🛠 Skills
+<p align="left">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <!-- Graphic Design -->
+  <img src="https://img.shields.io/badge/Graphic%20Design-FF69B4?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <!-- GitHub -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+- 🌱 **Core Java** (OOP concepts, basic programs)  
+- 🌱 **HTML & CSS** for building websites  
+- 🌱 **JavaScript Basics** for interactivity  
+- 🌱 **Graphic Design** with Canva & Photoshop  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lalitarawat&show_icons=true&theme=tokyonight" alt="Lalita's GitHub stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitarawat&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🎯 Goals
-- Build my first Java desktop application  
-- Create a personal portfolio website  
-- Learn basic responsive web design  
-- Explore creative design ideas
+- ✅ Build my first **Java Desktop App**  
+- ✅ Create a **Portfolio Website**  
+- ✅ Design creative digital graphics  
+- ✅ Keep learning every day  
 
 ---
 
 ## 📬 Connect with Me
-- **Email:** [lalitarawat8888@gmail.com](mailto:lalitarawat8888@gmail.com)  
-- **GitHub:** [github.com/lalitarawat](https://github.com/Lalita-Rawat/Lalita-Rawat/)  
+<p>
+  <a href="mailto:lalitarawat@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lalitarawat">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/lalitarawat">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> *"Every expert was once a beginner — I’m excited for the journey ahead!"*
+> 🌟 *"Every expert was once a beginner — I’m excited for the journey ahead!"*
