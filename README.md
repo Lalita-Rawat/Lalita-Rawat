@@ -5,14 +5,14 @@ NCMT College, Lincoln University College
 
 ---
 
-## 🌸 About Me
+## About Me
 Hi! I’m **Lalita Rawat**, an IT student just starting my journey into the tech world.  
 I’m learning to code, design, and build creative projects while pursuing my **Bachelor’s in Information Technology**.  
 My focus right now is to grow step-by-step in programming, web development, and design.
 
 ---
 
-## 💡 Skills (Beginner Level)
+## Skills (Beginner Level)
 - **Programming:** Java (basic syntax, OOP concepts)  
 - **Web Development:** HTML, CSS, JavaScript (basics)  
 - **Design:** Graphic Design (Canva, Photoshop basics)  
@@ -20,7 +20,7 @@ My focus right now is to grow step-by-step in programming, web development, and 
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - Core Java (OOP, basic programs)  
 - Web Design with HTML & CSS  
 - Simple JavaScript interactivity for websites  
