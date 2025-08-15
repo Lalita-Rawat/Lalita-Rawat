@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Lalita Rawat</h1>
-<h3 align="center">🎓 BIT Student at NCMT College, Lincoln University College</h3>
+<h1 align="center">Hi, I'm Lalita Rawat</h1>
+<h3 align="center">BIT Student at NCMT College, Lincoln University College</h3>
 
 ---
 
-## 🌸 About Me
+## About Me
 💻 I’m an **IT student** starting my journey in programming, web development, and design.  
 🎯 Passionate about learning step-by-step and building creative beginner projects.  
 ✨ Interested in **Java**, **Web Design**, and **Graphic Design**.  
