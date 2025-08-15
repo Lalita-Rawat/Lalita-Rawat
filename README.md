@@ -37,16 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalitarawat&show_icons=true&theme=tokyonight" alt="Lalita's GitHub stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitarawat&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ## 🎯 Goals
 - ✅ Build my first **Java Desktop App**  
 - ✅ Create a **Portfolio Website**  
@@ -57,7 +47,7 @@
 
 ## 📬 Connect with Me
 <p>
-  <a href="mailto:lalitarawat@example.com">
+  <a href="mailto:lalitarawat8888@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/lalitarawat">
