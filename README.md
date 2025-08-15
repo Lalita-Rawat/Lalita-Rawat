@@ -10,7 +10,7 @@ Hi! I’m **Lalita Rawat**, an IT student just starting my journey into the tech
 I’m learning to code, design, and build creative projects while pursuing my **Bachelor’s in Information Technology**.  
 My focus right now is to grow step-by-step in programming, web development, and design.
 
----
+---`
 
 ## Skills
 - **Programming:** Java (basic syntax, OOP concepts)  
