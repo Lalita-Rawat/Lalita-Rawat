@@ -12,7 +12,7 @@ My focus right now is to grow step-by-step in programming, web development, and 
 
 ---
 
-## Skills (Beginner Level)
+## Skills
 - **Programming:** Java (basic syntax, OOP concepts)  
 - **Web Development:** HTML, CSS, JavaScript (basics)  
 - **Design:** Graphic Design (Canva, Photoshop basics)  
