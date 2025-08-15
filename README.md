@@ -45,7 +45,7 @@ My focus right now is to grow step-by-step in programming, web development, and 
 
 ## 📬 Connect with Me
 - **Email:** [lalitarawat@example.com](mailto:lalitarawat@example.com)  
-- **GitHub:** [github.com/lalitarawat](https://github.com/lalitarawat)  
+- **GitHub:** [github.com/lalitarawat](https://github.com/Lalita-Rawat/Lalita-Rawat/)  
 
 ---
 
