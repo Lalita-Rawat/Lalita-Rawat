@@ -5,7 +5,7 @@ NCMT College, Lincoln University College
 
 ---
 
-## 🚀 About Me
+## About Me
 Hello! I'm **Lalita Rawat**, an enthusiastic IT student passionate about solving real-world problems through technology.  
 Currently pursuing my **Bachelor's in Information Technology**, I enjoy working with **Java** and related technologies, building software solutions, and continuously improving my coding skills.
 
